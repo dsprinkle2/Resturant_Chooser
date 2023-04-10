@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UMuAZj++jUa5PmKAVHbDNTgun00EEBRpDw2zQvKDGtPfIp1AfELis266QKLjAfOXpCwIY1rx9/+FR19NdcE/7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crazy\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crazy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
