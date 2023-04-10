@@ -1,0 +1,52 @@
+Restaurant Picker App Project Proposal
+Introduction
+
+Eating out can be a hassle when you have a group of people with different tastes in food. Making a decision on where to eat can take forever, and often leads to frustration. This is where the Restaurant Picker App comes in. Our app is designed to make the process of choosing a restaurant much easier and stress-free.
+Objectives
+
+The objective of the Restaurant Picker App is to provide users with an easy and efficient way to select a restaurant based on their location and preferences. The app will utilize data from popular restaurant review sites to provide users with a list of restaurants that match their criteria. The app will also allow users to randomly select a restaurant, taking the pressure off of decision-making.
+Features
+
+The Restaurant Picker App will include the following features:
+
+    Location-based restaurant search
+    Customizable search criteria (e.g. cuisine type, price range, rating)
+    Restaurant details (e.g. address, phone number, menu)
+    Random restaurant selection
+    User reviews and ratings
+
+Target Users
+
+The target users for the Restaurant Picker App are people who regularly dine out and are looking for a more efficient and stress-free way to choose a 
+restaurant. This includes individuals, couples, and groups of friends.
+Technical Requirements
+
+The Restaurant Picker App will be developed as a mobile application for Android and iOS platforms. 
+The app will utilize APIs from popular restaurant review sites to access restaurant data. 
+The app will also use the device's GPS capabilities to determine the user's location.
+Development Plan
+
+The development of the Restaurant Picker App will be completed in three phases:
+
+    Planning and research
+
+    Determine the target audience and their needs
+    Research available APIs and determine which ones will be used
+    Create a functional specification document
+
+    Design and development
+
+    Design the user interface
+    Develop the app's features
+    Test the app on both Android and iOS platforms
+
+    Launch and maintenance
+
+    Launch the app on the Google Play Store and Apple App Store
+    Provide ongoing maintenance and support
+
+Conclusion
+
+The Restaurant Picker App is a much-needed solution for people who struggle with choosing a restaurant. 
+With its location-based search and customizable criteria, the app will make the process of choosing a restaurant much easier and stress-free. 
+The app's development plan is well thought out and will result in a high-quality, user-friendly product.
