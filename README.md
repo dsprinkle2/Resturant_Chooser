@@ -51,10 +51,17 @@ Our capstone project, Restaurant Picker, differentiates itself from competitors 
 
 ### Potential Pitfalls
 
-    1. Learning new APIs: Team members may need to learn how to use the Yelp API and Google Maps API effectively. To mitigate this issue, team members can review API documentation and examples before starting development.
-    2. App deployment: Team members may need to learn how to package and distribute the program for Windows PC. To minimize this issue, team members can research the packagingand distribution process for Windows applications and allocate sufficient time to ensure successful program deployment.
-    3. Web-hosting: If the project expands to a web-hosted platform, team members may need to learn about web development technologies, hosting solutions, and securing user data. To address this challenge, team members can familiarize themselves with relevant technologies and best practices, as well as allocate time for proper implementation and testing.
-    4. API rate limits: Yelp and Google Maps APIs have rate limits that restrict the number of requests that can be made within a certain period. To handle this issue, team members should design the application to handle API rate limit errors gracefully and inform users when these limits are reached.
+    1. Learning new APIs: Team members may need to learn how to use the Yelp API and Google Maps API effectively. 
+      To mitigate this issue, team members can review API documentation and examples before starting development.
+    
+    2. App deployment: Team members may need to learn how to package and distribute the program for Windows PC. 
+      To minimize this issue, team members can research the packagingand distribution process for Windows applications and allocate sufficient time to ensure         successful program deployment.
+      
+    3. Web-hosting: If the project expands to a web-hosted platform, team members may need to learn about web development technologies,
+      hosting solutions, and securing user data. To address this challenge, team members can familiarize themselves with relevant 
+      technologies and best practices, as well as allocate time for proper implementation and testing.
+    4. API rate limits: Yelp and Google Maps APIs have rate limits that restrict the number of requests that can be made within a certain period. 
+       To handle this issue, team members should design the application to handle API rate limit errors gracefully and inform users when these limits are reached.
 
 ### Conclusion
 
