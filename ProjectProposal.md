@@ -30,7 +30,8 @@ Our capstone project, Restaurant Picker, differentiates itself from competitors 
 
 ### Sample UI
 
-[Include wireframe diagrams for major screens of the program]
+![Wireframes](/images/Wireframes.png "Wireframes for RP")
+
 
 ### Scope
 
